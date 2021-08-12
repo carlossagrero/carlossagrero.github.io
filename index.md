@@ -1,4 +1,4 @@
-## Bienvenidos a mi pñagina de GitHub
+## Bienvenidos a mi página de GitHub
 
 You can use the [editor on GitHub](https://github.com/carlossagrero/carlossagrero.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
